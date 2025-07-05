@@ -1,10 +1,10 @@
-# 🛒 Java E-Commerce System
+#  Java E-Commerce System
 
 This is a simple **console-based e-commerce system** built in Java, designed as part of a software engineering training challenge. It demonstrates key Object-Oriented Programming (OOP) principles such as inheritance, interfaces, abstraction, and encapsulation.
 
 ---
 
-## 📦 Features
+##  Features
 
 - Define **products** with name, price, and quantity
 - Support for:
@@ -23,7 +23,7 @@ This is a simple **console-based e-commerce system** built in Java, designed as 
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - **Interfaces** (`Shippable`)
 - **Abstract Classes** (`Product`, `ExpirableProduct`)
@@ -34,7 +34,7 @@ This is a simple **console-based e-commerce system** built in Java, designed as 
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Clone or download the project.
 2. Open the project in a Java IDE (e.g., NetBeans, IntelliJ, Eclipse).
@@ -42,7 +42,7 @@ This is a simple **console-based e-commerce system** built in Java, designed as 
 
 ---
 
-## 🧪 Sample Output
+##  Sample Output
 
 
 ![Screenshot (1429)](https://github.com/user-attachments/assets/c9324640-1e7c-4131-8a2f-c173fbfed695)
