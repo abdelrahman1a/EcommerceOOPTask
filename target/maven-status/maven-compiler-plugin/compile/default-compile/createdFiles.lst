@@ -1,0 +1,12 @@
+com\mycompany\ecommercesystem\Cart.class
+com\mycompany\ecommercesystem\ShippingService.class
+com\mycompany\ecommercesystem\EcommerceSystem.class
+com\mycompany\ecommercesystem\IShippable.class
+com\mycompany\ecommercesystem\MobileScratchCard.class
+com\mycompany\ecommercesystem\TV.class
+com\mycompany\ecommercesystem\Biscuits.class
+com\mycompany\ecommercesystem\CartItem.class
+com\mycompany\ecommercesystem\Customer.class
+com\mycompany\ecommercesystem\ExpirableProduct.class
+com\mycompany\ecommercesystem\Cheese.class
+com\mycompany\ecommercesystem\Product.class
